@@ -1,0 +1,14 @@
+.menu{
+    background-color: #64b65a;
+    width: 500px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.ikon{
+    display: inline;
+    padding: 10px 31px;
+}
+.ikon:hover{
+    background-color: white;
+}
